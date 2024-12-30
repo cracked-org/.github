@@ -1,4 +1,4 @@
 # cracked-org
 
-crack-* repos for acceleration from zero to datetime.now()
+crack-* repos for acceleration from zero to current epoch
 
